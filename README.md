@@ -13,4 +13,6 @@
 
 * **[Notion](https://www.notion.so/)** - all-in-one workspace and note-taking application
 
+* **[ShareX](https://getsharex.com/)** - screen capture, file sharing and productivity tool
+
 * **[WFDownloader](https://www.wfdownloader.xyz/)** - bulk media downloader
