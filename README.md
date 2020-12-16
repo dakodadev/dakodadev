@@ -1,16 +1,16 @@
-### Hi there 👋
+[webLogo]: https://i.imgur.com/0gkILZw.png "web"
+[steamLogo]: https://i.imgur.com/VRXLoJp.png "steam"
 
-<!--
-**dakodadev/dakodadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hi there 👋
 
-Here are some ideas to get you started:
+#### here's some god-like software
+---
+* **[Aseprite](https://www.aseprite.org/)** [![steam][steamlogo]](https://store.steampowered.com/app/431730/Aseprite/) - animated sprite editor and pixel art tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[JuiceFX](https://codemanu.itch.io/juicefx)** _by [CodeManu](https://codemanu.itch.io/)_ [![steam][steamLogo]](https://store.steampowered.com/app/1046770/Juice_FX/) - easy and incredible sprite animations and effects
+
+* **[Lossless Cut](https://github.com/mifi/lossless-cut)** _by [mifi](https://github.com/mifi)_ - swiss army knife of lossless video/audio editing
+
+* **[Notion](https://www.notion.so/)** - all-in-one workspace and note-taking application
+
+* **[WFDownloader](https://www.wfdownloader.xyz/)** - bulk media downloader
