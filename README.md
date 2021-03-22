@@ -3,6 +3,10 @@
 
 ### hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakodadev&hide=contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakodadev&layout=compact&langs_count=9&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 #### here's some god-like software
 ---
 * **[Aseprite](https://www.aseprite.org/)** [![steam][steamlogo]](https://store.steampowered.com/app/431730/Aseprite/) - animated sprite editor and pixel art tool
