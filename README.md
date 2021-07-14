@@ -19,4 +19,6 @@
 
 * **[ShareX](https://getsharex.com/)** - screen capture, file sharing and productivity tool
 
+* **[JDownloader](https://jdownloader.org/)** - downloads anything
+
 * **[WFDownloader](https://www.wfdownloader.xyz/)** - bulk media downloader
